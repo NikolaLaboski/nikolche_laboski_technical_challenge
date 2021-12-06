@@ -1,0 +1,92 @@
+.container{
+    height: 603px;
+    display: grid;
+    row-gap: 5px;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: 40px 60px 490px 490px ;
+    background-color:black;
+    border: 5px solid darkblue
+}
+
+.header{
+    grid-column: 1/7;
+    background-color: aqua;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.bars{
+    grid-column: 7/-1;
+    background-color: aqua;
+}
+
+.bars-a{
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+
+.input{
+    grid-column: 1/7;
+    background-color: blueviolet;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.product{
+    grid-column: 7/-1;
+    background-color: red;
+}
+
+.product-a{
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+
+.menu{
+    grid-column: 1/5;
+    background-color: brown;
+}
+
+.btn{
+    display: block;
+    align-items: center;
+    padding: 5% 20% 5% 20%;
+    margin-top: 10%;
+    margin-left: 1%;
+}
+
+.content{
+    grid-column: 5/-1;
+    background-color: chartreuse;
+    display: block;
+    align-items: center;
+}
+
+
+.sort1{
+    background-color: white;
+    box-sizing: border-box;
+    font-weight: 500;
+    margin:0 0.1em 0.1em 0;
+    border-radius: 0.12em;
+    cursor: pointer;
+    padding: 0.1em 0.2em;
+    display: inline-block;
+    border: 0.1em solid #FFFFFF; 
+    text-align: center;
+}
+
+.sort1:hover{
+    color:#ffffff;
+    background-color:#000000;
+}
+
+@media all and (max-width:30em){
+     .sort1{
+        display:block;
+        margin:0.4em auto;
+        margin:0 0.1em 0.1em 0;
+    }
+}
