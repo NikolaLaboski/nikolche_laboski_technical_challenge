@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/valtech/static/css/main.963af304.chunk.css",
-    "main.js": "/valtech/static/js/main.7c9cc464.chunk.js",
-    "main.js.map": "/valtech/static/js/main.7c9cc464.chunk.js.map",
-    "runtime-main.js": "/valtech/static/js/runtime-main.4e111802.js",
-    "runtime-main.js.map": "/valtech/static/js/runtime-main.4e111802.js.map",
-    "static/js/2.50007b45.chunk.js": "/valtech/static/js/2.50007b45.chunk.js",
-    "static/js/2.50007b45.chunk.js.map": "/valtech/static/js/2.50007b45.chunk.js.map",
-    "index.html": "/valtech/index.html",
-    "static/css/main.963af304.chunk.css.map": "/valtech/static/css/main.963af304.chunk.css.map",
-    "static/js/2.50007b45.chunk.js.LICENSE.txt": "/valtech/static/js/2.50007b45.chunk.js.LICENSE.txt"
+    "main.css": "/nikolche_laboski_technical_challenge/static/css/main.963af304.chunk.css",
+    "main.js": "/nikolche_laboski_technical_challenge/static/js/main.7c9cc464.chunk.js",
+    "main.js.map": "/nikolche_laboski_technical_challenge/static/js/main.7c9cc464.chunk.js.map",
+    "runtime-main.js": "/nikolche_laboski_technical_challenge/static/js/runtime-main.bd524c95.js",
+    "runtime-main.js.map": "/nikolche_laboski_technical_challenge/static/js/runtime-main.bd524c95.js.map",
+    "static/js/2.50007b45.chunk.js": "/nikolche_laboski_technical_challenge/static/js/2.50007b45.chunk.js",
+    "static/js/2.50007b45.chunk.js.map": "/nikolche_laboski_technical_challenge/static/js/2.50007b45.chunk.js.map",
+    "index.html": "/nikolche_laboski_technical_challenge/index.html",
+    "static/css/main.963af304.chunk.css.map": "/nikolche_laboski_technical_challenge/static/css/main.963af304.chunk.css.map",
+    "static/js/2.50007b45.chunk.js.LICENSE.txt": "/nikolche_laboski_technical_challenge/static/js/2.50007b45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e111802.js",
+    "static/js/runtime-main.bd524c95.js",
     "static/js/2.50007b45.chunk.js",
     "static/css/main.963af304.chunk.css",
     "static/js/main.7c9cc464.chunk.js"
